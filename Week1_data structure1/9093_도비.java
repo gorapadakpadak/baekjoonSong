@@ -5,6 +5,7 @@ public class Main {
 		Scanner scan = new Scanner(System.in);
 		int numOfTest = Integer.parseInt(scan.nextLine());
 		String[] testCaseArray = new String[numOfTest];
+		
 		for (int i = 0; i < numOfTest; i++) {
 			testCaseArray[i] = scan.nextLine();
 		}
