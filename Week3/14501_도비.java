@@ -27,5 +27,4 @@ public class Main {
 		}
 		System.out.println(maxArray[1]);
 	}
-
 }
