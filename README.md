@@ -3,13 +3,8 @@
 > [Code Plus 문제](https://code.plus/course/41) 중 선택해서 푸는 BOJ 1일 1솔 스터디
 
 <details>
-<summary>토글 접기/펼치기</summary>
+ <summary><h2>2022 겨울방학 스터디 방식(1월~2월)</h2></summary>
 <div markdown="1">
-
-안녕
-
-</div>
-</details>
 
 ### ⏳ 주 계획 
 
@@ -42,4 +37,9 @@
 |Week 5 (2/7 ~ 2/13)|그래프|
 |Week 6 (2/14 ~ 2/20)|BFS|
 |Week 7 (2/21 ~ 2/28)|트리|
+
+</div>
+</details>
+
+
 
