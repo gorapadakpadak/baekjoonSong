@@ -2,6 +2,15 @@
 
 > [Code Plus 문제](https://code.plus/course/41) 중 선택해서 푸는 BOJ 1일 1솔 스터디
 
+<details>
+<summary>토글 접기/펼치기</summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
+
 ### ⏳ 주 계획 
 
 - **월, 화, 수** : 자유 문제 풀이 (필수) 
