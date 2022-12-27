@@ -1,3 +1,4 @@
+//신규아이디찾기_채원
 class Solution {
     public String solution(String new_id) {
         String answer = "";
