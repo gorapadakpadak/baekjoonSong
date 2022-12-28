@@ -5,6 +5,7 @@ import java.nio.Buffer;
 import java.util.*;
 
 //ver1.배열
+//221228(수) 채원
 public class Main {
     public static void main(String[] args) throws IOException {
         // write your code here
