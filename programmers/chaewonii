@@ -1,0 +1,21 @@
+import java.util.*;
+class Solution {
+    public int solution(int[] nums) {
+        int answer = nums.length/2;
+        
+        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+        for(int i : nums){
+            if(map.containsKey(i)){
+                map.replace(i,map.get(i)+1);
+            }else{
+                map.put(i,1);
+            }
+        }
+        if(map.size()>(nums.length/2)){
+            return answer;
+        }else{
+            return answer=map.size();
+        }
+        
+    }
+}
